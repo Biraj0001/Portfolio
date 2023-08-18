@@ -89,7 +89,7 @@ display: none;
 }
 .front-left{
     border: 2px solid cyan;
-    background-image: url("/images/me-iamge.jpg");
+    background-image: url("./images/me-iamge.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@ display: none;
 }
 .about-right{
     width: 20%;
-    background-image: url("/images/about.jpg");
+    background-image: url("./images/about.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
