@@ -354,8 +354,14 @@ footer{
 }
 .front-phone{
     background-color: rgba(0, 0, 0, 0.672);
-    height: 100vh;
+    height: 150vh;
   display:list-item;
+}
+.about-page{
+    margin-top: 10vh;
+}
+.download-link{
+    margin-bottom: 10vh;
 }
 }
 
